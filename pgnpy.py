@@ -1,5 +1,6 @@
 class PgnConverter():
     """
+    WARNING: THIS DOES LOAD THE ENTIRE FILE INTO MEMORY
 The main converter class from *.pgn into other filetypes
 The conversion is done thru a dynamic datastore per instance
 This converter should handle *.pgn downloads from different
