@@ -516,6 +516,7 @@
 [BlackElo "1609"]
 [Variant "From Position"]
 [TimeControl "-"]
+[TimeControl "-"]
 [ECO "?"]
 [Termination "Normal"]
 [FEN "5k2/6p1/5p1p/8/4pK2/2r1P2P/6P1/8 b - - 3 41"]
